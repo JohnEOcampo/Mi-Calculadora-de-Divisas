@@ -1,4 +1,5 @@
-# flutter_application_2
+# Mi Calculadora de Divisas
+App de Conversor de moneda entre COP, USD y EUR
 
 A new Flutter project.
 
