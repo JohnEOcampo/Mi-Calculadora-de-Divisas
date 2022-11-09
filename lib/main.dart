@@ -36,6 +36,7 @@ final resultado = TextEditingController();
 String datoinicial = "COP";
 String datofinal = "USD";
 
+// Lista desplegable de tipos de Moneda
 List<DropdownMenuItem<String>> listaMoneda = <DropdownMenuItem<String>>[
   DropdownMenuItem(value: "USD", child: Text("USD")),
   DropdownMenuItem(value: "EUR", child: Text("EUR")),
